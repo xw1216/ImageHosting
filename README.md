@@ -1,5 +1,7 @@
 # ImageHosting 个人图床
 
+> 本仓库功能已经被自建的 Chevereto 图床取代。
+
 - 😄 本仓库为 Wayne Bear 的个人图床仓库。
 - 🖼️ 使用 `PicGo` 进行图片的上传。
 
